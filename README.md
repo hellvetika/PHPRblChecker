@@ -1,5 +1,5 @@
 # PHPRblChecker
-A simple script to check if IP address is listed on RBL
+A simple PHP-CLI script to check if IP address is listed on RBL
 
 You must run this script on CLI
 
