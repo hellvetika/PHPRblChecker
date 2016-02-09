@@ -29,7 +29,7 @@ $rbls = array that contains the RBLs urls that you want to test for. The values 
 Note: RBLs must be queried by DNS !
 */
 
-$ips = array('94.103.99.41' => 'cepv.ch','193.5.240.1' => 'peda.vd.ch');
+$ips = array('8.8.8.8' => 'Google DNS');
 
 $rbls = file('rbls-addresses.txt');
 $rbls = array_combine($rbls, $rbls); 
