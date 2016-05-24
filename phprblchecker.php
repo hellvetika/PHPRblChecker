@@ -3,7 +3,7 @@
 
 /**
  *
- * This script checks if IPs are blacklisted on main RBL providerss
+ * This script checks if IPs are blacklisted on main RBL providers
  *
  * @author     Yann Rapenne <yann.rapenne@cepv.ch>
  *
